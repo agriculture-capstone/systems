@@ -1,0 +1,11 @@
+= Jenkins Continuous Integration
+
+To use this image you will need Docker installed and `docker-compose` installed.
+
+. link:https://docs.docker.com/engine/installation/[Docker Install Instructions]
+. link:https://docs.docker.com/compose/install/[`docker-compose` Install Instructions]
+
+== Usage
+
+To build the Jenkins image use `docker-compose build`.
+To start the Jenkins container use `docker-compose up`.
