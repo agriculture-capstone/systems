@@ -1,1 +1,2 @@
-FROM jenkins/jenkins:lts
+FROM jenkinsci/blueocean
+
